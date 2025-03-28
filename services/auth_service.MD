@@ -16,4 +16,5 @@
 | PUT | /auth/change-password | Make a new password|
 
 🔗 Repository for [Authentication Servivce](https://github.com/GabrielMoody/mikronet-auth-service)
+
 📜 Refer to [API Documentation](../api-docs/openapi.yaml) for detailed specs.

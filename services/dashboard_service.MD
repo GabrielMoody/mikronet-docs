@@ -22,4 +22,5 @@
 | DELETE | /dashboard/drivers/{id} | Delete a driver account|
 
 🔗 Repository for [Dashboard Servivce](https://github.com/GabrielMoody/mikronet-dashboard-service)
+
 📜 Refer to [API Documentation](../api-docs/openapi.yaml) for detailed specs.

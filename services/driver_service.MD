@@ -15,4 +15,5 @@
 | PUT | /driver/status | Change driver status|
 
 🔗 Repository for [Driver Servivce](https://github.com/GabrielMoody/mikronet-driver-service)
+
 📜 Refer to [API Documentation](../api-docs/openapi.yaml) for more detailed specs.
