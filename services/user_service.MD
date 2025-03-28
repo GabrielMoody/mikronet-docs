@@ -14,6 +14,6 @@
 | POST | /user/review/{id} | Make a review |
 | POST | /user/transaction | Make a payment |
 
-🔗 Repository for [User Servivce](https://github.com/GabrielMoody/mikronet-user-service)
+🔗 Repository for [User Service](https://github.com/GabrielMoody/mikronet-user-service)
 
 📜 Refer to [API Documentation](../api-docs/openapi.yaml) for detailed specs.
